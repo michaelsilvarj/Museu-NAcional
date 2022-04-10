@@ -1,0 +1,10 @@
+/* Estrutura site ----------- */
+html  {
+	height: 100%;
+}
+
+body {
+	background: #f4f2ec url(../img/fundo.png) repeat-x;
+	/*height: 100%;*/
+}
+}
